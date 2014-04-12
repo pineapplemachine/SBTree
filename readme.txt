@@ -23,6 +23,7 @@ SBTree
 	 values assigned to the same key.
 
 	Key methods:
+
 	 SBNode insert ( Comparable key , Object value )
 	 SBNode remove ( Comparable key )
 	 SBNode remove ( Comparable key , Object value )
